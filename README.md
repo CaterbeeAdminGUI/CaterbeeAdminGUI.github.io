@@ -7,7 +7,7 @@
 
 > The team has started the first sprint for the project and is proceeding as planned.
 > **10/4/2018**
-![Table window](https://github.com/CaterbeeAdminGUI/CaterbeeAdminGUI.github.io/blob/master/Screenshot%20from%202018-04-12%2016-29-46.png)
+![Table window](http://github.com/CaterbeeAdminGUI/CaterbeeAdminGUI.github.io/blob/master/Screenshot%20from%202018-04-12%2016-29-46.png)
 
 # Meet the team
 
