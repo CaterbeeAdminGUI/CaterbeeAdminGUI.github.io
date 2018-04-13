@@ -11,20 +11,20 @@
 
 # Meet the team
 
-Erik Båvenstrand  erikbav@kth.se
+Erik Båvenstrand  [erikbav@kth.se]
 
 ---
 
-Luvig Christensen ludvigch@kth.se
+Luvig Christensen [ludvigch@kth.se]
 
 ---
 
-Måns Ekelund  mansek@kth.se
+Måns Ekelund  [mansek@kth.se]
 
 ---
 
-Martin Falke  mafalke@kth.se
+Martin Falke  [mafalke@kth.se]
 
 ---
 
-Arian Javdan  javdan@kth.se
+Arian Javdan  [javdan@kth.se]
