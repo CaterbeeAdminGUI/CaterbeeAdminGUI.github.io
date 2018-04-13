@@ -15,16 +15,16 @@ Erik Båvenstrand  [erikbav@kth.se](https://erikbav@kth.se)
 
 ---
 
-Luvig Christensen [ludvigch@kth.se]
+Luvig Christensen [ludvigch@kth.se](https://ludvigch@kth.se)
 
 ---
 
-Måns Ekelund  [mansek@kth.se]
+Måns Ekelund  [mansek@kth.se](https://mansek@kth.se)
 
 ---
 
-Martin Falke  [mafalke@kth.se]
+Martin Falke  [mafalke@kth.se](https://mafalke@kth.se)
 
 ---
 
-Arian Javdan  [javdan@kth.se]
+Arian Javdan  [javdan@kth.se](https://javdan@kth.se)
