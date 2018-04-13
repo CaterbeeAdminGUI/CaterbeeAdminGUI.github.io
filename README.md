@@ -11,7 +11,7 @@
 
 # Meet the team
 
-Erik Båvenstrand  [erikbav@kth.se]
+Erik Båvenstrand  [erikbav@kth.se](https://erikbav@kth.se)
 
 ---
 
