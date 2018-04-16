@@ -6,11 +6,11 @@
 # Follow the project
 
 
-> Sprint 1 is finised! This week the basic structure of the webpage was built with some implemented features and placeholder pages to be implemented fully at a later stage.
+> Sprint 1 is finised! This week the basic structure of the webpage was built with some implemented features and placeholder pages to be implemented fully at a later stage. In the pictures below the login page and the page for listing orders can be seen.
 >**13/4/2018**
 
-> <img src="https://i.imgur.com/QtNAASF.png">             <img src="https://i.imgur.com/BrV6B1b.png">             
-  ##### list of orders page                                  ##### list of orders page
+> <img src="https://i.imgur.com/QtNAASF.png" width="400" height="200">                                                      <img src="https://i.imgur.com/BrV6B1b.png" width="400" height="200">             
+                                 
                                                     
 
 > The team has started the first sprint for the project and is proceeding as planned.
