@@ -24,7 +24,7 @@ Erik Båvenstrand  [erikbav@kth.se](https://erikbav@kth.se)
 
 ---
 
-Luvig Christensen [ludvigch@kth.se](https://ludvigch@kth.se)
+Ludvig Christensen [ludvigch@kth.se](https://ludvigch@kth.se)
 
 ---
 
