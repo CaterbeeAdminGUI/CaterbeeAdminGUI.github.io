@@ -9,11 +9,14 @@
 > Sprint 1 is finised! This week the basic structure of the webpage was built with some implemented features and placeholder pages to be implemented fully at a later stage.
 >**13/4/2018**
 
+> <img src="https://i.imgur.com/QtNAASF.png">             <img src="https://i.imgur.com/BrV6B1b.png">             
+  ##### list of orders page                                  ##### list of orders page
+                                                    
+
 > The team has started the first sprint for the project and is proceeding as planned.
 > **10/4/2018**
 
-  <img src="https://i.imgur.com/QtNAASF.png">
-  list of orders page
+
 
 # Meet the team
 
