@@ -12,6 +12,7 @@
 > The team has started the first sprint for the project and is proceeding as planned.
 > **10/4/2018**
 
+  <img src="https://github.com/CaterbeeAdminGUI/CaterbeeAdminGUI.github.io/blob/master/Screenshot%20from%202018-04-12%2016-29-46.png">
 
 # Meet the team
 
@@ -33,4 +34,3 @@ Martin Falke  [mafalke@kth.se](https://mafalke@kth.se)
 
 Arian Javdan  [javdan@kth.se](https://javdan@kth.se)
 
-> Sprint 1 is finised! This week a 
