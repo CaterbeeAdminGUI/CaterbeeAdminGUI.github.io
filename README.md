@@ -5,9 +5,13 @@
 
 # Follow the project
 
+
+> Sprint 1 is finised! This week the basic structure of the webpage was built with some implemented features and placeholder pages to be implemented fully at a later stage.
+>**13/4/2018**
+
 > The team has started the first sprint for the project and is proceeding as planned.
 > **10/4/2018**
-![Table window](http://github.com/CaterbeeAdminGUI/CaterbeeAdminGUI.github.io/blob/master/Screenshot%20from%202018-04-12%2016-29-46.png)
+
 
 # Meet the team
 
@@ -28,3 +32,5 @@ Martin Falke  [mafalke@kth.se](https://mafalke@kth.se)
 ---
 
 Arian Javdan  [javdan@kth.se](https://javdan@kth.se)
+
+> Sprint 1 is finised! This week a 
