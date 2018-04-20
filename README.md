@@ -16,6 +16,7 @@
   <img src="https://i.imgur.com/ikT9VAo.png" width="450" height="300"> 
 </p>
 > Sprint 1 is finished! This week the basic structure of the webpage was built with some implemented features and placeholder pages to be implemented fully at a later stage. In the pictures below the login page and the page for listing orders can be seen.
+
 >**13/4/2018**
 <p align="center">
 <img src="https://i.imgur.com/QtNAASF.png" width="350" height="200"> <img src="https://i.imgur.com/BrV6B1b.png" width="350" height="200">   
