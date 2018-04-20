@@ -10,10 +10,10 @@
 
 # Follow the project
 
-> Sprint 2 is afoot! This week the plan is to implement some backend features such as login authentication and fetch more data from the database. The group also decided to refactor large portions of the application which has proven to be a more difficult task than the group had anticipated but the workflow is back on track. 
+> Sprint 2 is afoot! This week the plan is to implement some backend features such as login authentication and fetch more data from the database. The group also decided to refactor large portions of the application which has proven to be a more difficult task than the group had anticipated but the workflow is back on track. The picture below shows a list of companies that was implemented this week.
 > **19/4/2018**
 <p align="center">
-  <img src="https://i.imgur.com/ikT9VAo.png" width="450" height="300"> 
+  <img src="https://i.imgur.com/ikT9VAo.png" width="650" height="300"> 
 </p>
 
 > Sprint 1 is finished! This week the basic structure of the webpage was built with some implemented features and placeholder pages to be implemented fully at a later stage. In the pictures below the login page and the page for listing orders can be seen. 
