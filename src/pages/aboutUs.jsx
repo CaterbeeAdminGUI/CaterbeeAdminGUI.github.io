@@ -17,13 +17,13 @@ export default class About extends React.Component {
         return(
             <div>
             <div class="w3-container w3-lobster w3-center">
-                 <p class="w3-xxxlarge">
+                 <p class="ex1 w3-xxlarge">
                     Meet the Team
                  </p>
             </div>
                     <div class="w3-animate-meme">
                         <h2>
-                            <hr/>
+                            
                             <div class="w3-border w3-white w3-hover-opacity w3-hover-yellow w3-gothic">
                                 <div><p>Erik Båvenstrand</p></div>
                                 <div> <a href="url">erikbav@kth.se</a></div>
