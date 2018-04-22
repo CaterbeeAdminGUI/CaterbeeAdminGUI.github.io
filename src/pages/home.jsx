@@ -18,13 +18,13 @@ export default class Home extends React.Component {
         return(
             <div class="w3-container w3-center">
                 <div class="w3-container w3-lobster">
-                     <p class="w3-xxxlarge">
+                     <p class="w3-xxlarge">
                         CaterbeeAdminGUI 
                      </p>
                 </div>
-                <div class="w3-container ">
+                <div class="w3-container   w3-white">
                 <div class="w3-animate-meme w3-gothic">
-                        <p class="w3-xxlarge">We are a team of students at the KTH Royal Institute of Technology 
+                        <p class="w3-xlarge">We are a team of students at the KTH Royal Institute of Technology 
                             developing an admin GUI for Caterbee, whose vision is to connect catering companies in a B2B 
                             application designed to simplify catering.
                         </p>

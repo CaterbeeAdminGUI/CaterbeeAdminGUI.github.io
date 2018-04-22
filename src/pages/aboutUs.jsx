@@ -24,28 +24,28 @@ export default class About extends React.Component {
                     <div class="w3-animate-meme">
                         <h2>
                             <hr/>
-                            <div class="w3-border w3-hover-opacity w3-hover-yellow w3-gothic">
+                            <div class="w3-border w3-white w3-hover-opacity w3-hover-yellow w3-gothic">
                                 <div><p>Erik Båvenstrand</p></div>
                                 <div> <a href="url">erikbav@kth.se</a></div>
                             </div>   
                             <hr />              
-                            <div class="w3-border w3-hover-opacity w3-hover-yellow w3-gothic">
+                            <div class="w3-border w3-white w3-hover-opacity w3-hover-yellow w3-gothic">
                                 <div><p>Ludvig Christensen</p></div>
                                 <b>Scrum Master </b>
                                 <div> <a href="url">ludvigch@kth.se</a></div>       
                             </div>
                             <hr/>
-                            <div class="w3-border w3-hover-opacity  w3-hover-yellow w3-gothic">
+                            <div class="w3-border w3-white w3-hover-opacity  w3-hover-yellow w3-gothic">
                                 <div><p>Måns Ekelund</p></div>
                                 <div> <a href="url">mansek@kth.se</a></div>       
                             </div>
                             <hr/>
-                            <div class="w3-border w3-hover-opacity w3-hover-yellow w3-gothic">
+                            <div class="w3-border w3-white w3-hover-opacity w3-hover-yellow w3-gothic">
                                 <div><p>Martin Falke</p></div>
                                 <div> <a href="url">mafalke@kth.se</a></div>       
                             </div>
                             <hr/>
-                            <div class="w3-border w3-hover-opacity w3-hover-yellow w3-gothic">
+                            <div class="w3-border w3-white w3-hover-opacity w3-hover-yellow w3-gothic">
                                 <div><p>Arian Javdan</p></div>
                                 <div> <a href="url">javdan@kth.se</a></div>       
                             </div>
