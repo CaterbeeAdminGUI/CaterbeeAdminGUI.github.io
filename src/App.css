@@ -13,6 +13,9 @@
   padding: 20px;
   color: white;
 }
+.navbar {
+  background-color: rgb(247, 219, 95);
+}
 
 .App-title {
   font-size: 1.5em;

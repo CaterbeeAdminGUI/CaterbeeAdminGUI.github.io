@@ -6,7 +6,7 @@ import { Navbar, Nav, NavItem, NavDropdown, MenuItem } from 'react-bootstrap';
 export default class CustomNavbar extends React.Component {
     render() {
         return(
-            <Navbar inverse>
+            <Navbar>
                 <Navbar.Header>
                     <Navbar.Brand>
                     <a href="/">CaterbeeAdminGUI</a>
