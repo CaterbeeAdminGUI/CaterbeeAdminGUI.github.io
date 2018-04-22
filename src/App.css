@@ -18,6 +18,9 @@
   font-size: 1.5em;
 }
 
+body {
+  background: url("https://i.imgur.com/5g7SHRx.png");
+}
 .App-intro {
   font-size: large;
 }

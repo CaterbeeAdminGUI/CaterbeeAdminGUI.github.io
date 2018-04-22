@@ -28,9 +28,14 @@ export default class Home extends React.Component {
                         CaterbeeAdminGUI 
                      </p>
                 </div>
-                <div class="w3-animate-opacity"><h2>We are a team of students at the KTH Royal Institute of Technology 
-                    developing an admin GUI for Caterbee, whose vision is to connect catering companies in a B2B 
-                    application designed to simplify catering..</h2></div>
+                <div class="w3-container w3-grey">
+                    <div class="w3-animate-opacity" >
+                        <h2>We are a team of students at the KTH Royal Institute of Technology 
+                            developing an admin GUI for Caterbee, whose vision is to connect catering companies in a B2B 
+                            application designed to simplify catering.
+                        </h2>
+                    </div>
+                </div>
             </div>    
         );
         

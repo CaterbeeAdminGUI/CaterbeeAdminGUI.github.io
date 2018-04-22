@@ -1,6 +1,28 @@
-#test p {
+.-test p {
     opacity: 0;
     margin-top: 25px;
     font-size: 21px;
     text-align: center;
 }
+#card p {
+    opacity: 0;
+    margin-top: 250px;
+    font-size: 210px;
+    text-align: center;
+}
+/*<div class="w3-container">
+
+<div class="w3-card-4" style={{"height" : "100%", "width" : "50%"}}>
+    <header class="w3-container w3-grey">
+    <h1>Erik Båvenstrand</h1>
+    </header>
+
+    <div class="w3-container">
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+    </div>
+
+    <footer class="w3-container w3-blue">
+    <h5>Footer</h5>
+    </footer>
+</div>
+</div>*/
