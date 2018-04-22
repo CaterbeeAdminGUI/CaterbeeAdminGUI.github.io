@@ -52,16 +52,20 @@ export default class Project extends React.Component {
                         <img src="https://i.imgur.com/BrV6B1b.png" width="650" height="300"></img>
                     </a>
                 </li>
-                <hr/>
+                
             </div>
+            <hr/>
             <hr/>
             <div class="w3-container">
             <div id="main" class="w3-animate-meme w3-gothic   w3-white">
                     <b class="w3-center">10/4/2018</b>
                     <p class=" w3-large">
                     The team has started the first sprint for the project and is proceeding as planned. 
+                    
                     </p>
                 </div>
+                <hr/>
+                <hr/>
             </div>
         </div> 
         

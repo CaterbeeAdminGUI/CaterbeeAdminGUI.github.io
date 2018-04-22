@@ -23,7 +23,7 @@ export default class Home extends React.Component {
                      </p>
                 </div>
                 <div class="w3-container w3-white">
-                <div class="w3-animate-meme w3-gothic">
+                <div  id="main" class="w3-animate-meme w3-gothic">
                         <p class=" w3-large">We are a team of students at the KTH Royal Institute of Technology 
                             developing an admin GUI for Caterbee, whose vision is to connect catering companies in a B2B 
                             application designed to simplify catering.
