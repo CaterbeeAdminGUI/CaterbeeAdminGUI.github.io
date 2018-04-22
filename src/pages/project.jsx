@@ -18,6 +18,13 @@ export default class Project extends React.Component {
                     </h2>
                 </div>
             </div>
+            <div class="w3-container w3-grey">
+                <div class="w3-animate-opacity" >
+                    <h2>
+                    The team has started the first sprint for the project and is proceeding as planned. <b>10/4/2018</b>
+                    </h2>
+                </div>
+            </div>
         </div> 
         
             </div>
