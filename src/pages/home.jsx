@@ -16,19 +16,29 @@ export default class Home extends React.Component {
     render()    {
         
         return(
-            <div class="w3-container w3-center">
+            <div class="w3-container">
+            <div id="bottompadding" class="w3-center">
                 <div class="w3-container w3-lobster">
                      <p class="ex1 w3-xxlarge">
                         CaterbeeAdminGUI 
                      </p>
                 </div>
-                <div class="w3-container w3-white">
-                <div  id="main" class="w3-animate-meme w3-gothic">
-                        <p class=" w3-large">We are a team of students at the KTH Royal Institute of Technology 
+                <div id="main" class="w3-animate-meme w3-gothic w3-white">
+                    <p class="w3-xlarge">We are a team of students at the KTH Royal Institute of Technology 
                             developing an admin GUI for Caterbee, whose vision is to connect catering companies in a B2B 
-                            application designed to simplify catering.
-                        </p>
-                    </div>
+                            application designed to simplify catering.</p>                    
+                </div>
+                
+                </div>
+               
+                <div class="w3-animate-meme w3-center">
+                <a id="imagepadding" href="https://i.imgur.com/q14hoii.jpg">
+                    <img src="https://i.imgur.com/q14hoii.jpg" width="350" height="500"></img>
+                </a>
+                <a id="imagepadding" href="https://i.imgur.com/q14hoii.jpg">
+                    <img src="https://i.imgur.com/q14hoii.jpg" width="350" height="500"></img>
+                </a>
+                <hr/>
                 </div>
             </div>    
         );

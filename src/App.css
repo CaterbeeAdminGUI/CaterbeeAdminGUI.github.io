@@ -16,11 +16,18 @@
 .navbar {
   background-color: rgb(247, 219, 95);
 }
+
+#bottompadding{
+  padding-bottom: 45px
+}
 #main {
   width: 1000px;
   margin: 0 auto; 
 } 
-
+#imagepadding {
+  padding-left: 50px;
+  padding-right: 50px;
+}
 .App-title {
   font-size: 1.5em;
 }
