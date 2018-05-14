@@ -13,7 +13,7 @@ class NavBar extends Component {
       <Navbar collapseOnSelect >
         <Navbar.Header>
           <Navbar.Brand>
-          <img src="/favicon.ico" alt=""/>
+          <img src="/icon.png" alt=""/>
           </Navbar.Brand>
           <Navbar.Toggle />
         </Navbar.Header>

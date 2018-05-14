@@ -17,7 +17,7 @@ export default class Project extends React.Component {
                     <b class="w3-center">Final note</b>
                     <p class=" w3-large">This project has been very 
                     exciting and we are very thankful to Caterbee for this opportunity, 
-                    hard as it has been, it’s been a very instructive experience but most 
+                    hard as it has been, it’s been a very valuable experience but most 
                     of all it’s been incredibly fun! We wish Caterbee the best of luck in 
                     their business pursuances! </p>
                     </div>
